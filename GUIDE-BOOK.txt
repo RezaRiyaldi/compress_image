@@ -1,0 +1,11 @@
+Assalamualaikum Wr. Wb
+
+---- INSTALASI DB
+- Masuk ke "http://localhost/phpmyadmin/".
+- Import SQL, masukan file `db.sql`.
+
+---- GUIDE BOOK webapps
+- Jalankan "http://localhost/compress_image/", untuk masuk ke webapps.
+- Silahkan registrasi terlebih dahulu, setelah itu login.
+- Setelah login akan diarahkan ke tampilah home, lalu masukan gambar dan pilih resolusi.
+- Apabila klik upload akan diarahkan ke halaman history.
